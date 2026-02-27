@@ -1,2 +1,11 @@
 .env
 
+/app/__pycache__
+
+/logs
+
+/server/__pycache__
+
+
+/venv
+
